@@ -88,23 +88,23 @@ ____
 ### Before Using
 Before using the comparator, it must be initialized.
 Example:
-```
+```go
 c := comparator.New(alphabet []string)
 ```
 or just:
-```
+```go
 c := comparator.New(), it use default alphabet
 ```
 ____
 ### Alphabet
 The alphabet is represented as a slice of a string. You can also set it.
 Example:
-```
+```go
 c.SetABC([]string{"A","B","C","abcde"})
 ```
 The lower the slice index, the higher the priority of the value.
 You can restore the default alphabet:
-```
+```go
 c.SetDefaultABC()
 ```
 IMPORTANT:
@@ -116,7 +116,7 @@ ____
 #### GetIndex
 Takes a string type character (length must be 1) and returns its index from the alphabet
 Example:
-```
+```go
 c.GetIndex("A") //With the standard alphabet , it will return 0
 ```
 ____
@@ -131,7 +131,7 @@ x < y = -1
 x == y = 0
 ```
 Example:
-```
+```go
 if c.Compare("A","B") == -1 {
       ....
 }
@@ -143,7 +143,7 @@ ____
 #### Less
 This compares two variables of type (int,float32,float64,string) and returns true if the first argument is less than the second
 Example:
-```
+```go
 if c.Less("A", "B") {  // "A" < "B"
     ....
 }
@@ -152,7 +152,7 @@ ____
 #### More
 This compares two variables of type (int,float32,float64,string) and returns true if the first argument is greater than the second
 Example:
-```
+```go
 if c.More("B", "A") {  // "B" > "A"
     ....
 }
@@ -161,7 +161,7 @@ ____
 #### Equal
 This compares two variables of type (int,float32,float64,string) and returns true if the first argument is equal than the second
 Example:
-```
+```go
 if c.Equal("C", "C") {  // "C" == "C"
     ....
 }
@@ -170,7 +170,7 @@ ____
 #### LessEqual
 This compares two variables of type (int,float32,float64,string) and returns true if the first argument is less or equal than the second
 Example:
-```
+```go
 if c.LessEqual("C", "C") {  // "C" <= "C"
     ....
 }
@@ -179,7 +179,7 @@ ___
 #### MoreEqual 
 This compares two variables of type (int,float32,float64,string) and returns true if the first argument is greater or equal than the second
 Example:
-```
+```go
 if c.MoreEqual("B", "A") {  // "B" >= "A"
     ....
 }
