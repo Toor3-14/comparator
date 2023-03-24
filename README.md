@@ -1,4 +1,8 @@
-# Comparator
+<p align="center">
+  <a href="https://github.com/Toor3-14/comparator" rel="noopener" target="_blank"><img width="150" src="logo.png" alt="comparator logo"></a>
+</p>
+<h1 align="center">Go Compare 😋</h1>
+
 
 [![Gmail](https://img.shields.io/badge/-dmitrykeof@gmail.com-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:dmitrykeof@gmail.com) 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/redltoor)
