@@ -105,7 +105,7 @@ c := comparator.New(alphabet []string)
 ```
 or just:
 ```go
-c := comparator.New(), it use default alphabet
+c := comparator.New() //it use default alphabet
 ```
 ____
 ### Alphabet
