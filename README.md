@@ -188,8 +188,8 @@ if c.MoreEqual("B", "A") {  // "B" >= "A"
 ___
 ## Contributing
 
-* Fork the `project <https://github.com/Toor3-14/comparator>`_
-* Fix `open issues <https://github.com/Toor3-14/comparator/issues>`_ or request new features
+* Fork the [!link](https://github.com/Toor3-14/comparator)
+* Fix [!link](https://github.com/Toor3-14/comparator/issues) or request new features
 
 Don't hesitate ;)
 ___
