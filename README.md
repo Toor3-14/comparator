@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Go Compare 😋</h1>
 
-
+<div align="center">
 [![Gmail](https://img.shields.io/badge/-dmitrykeof@gmail.com-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:dmitrykeof@gmail.com) 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/redltoor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -15,6 +15,7 @@ Also will help the user to adjust your methods more flexibly to their needs.
 
 
 The main goal of the project - is to standardize work with methods using different data types and needing their own alphabets
+</div>
 
 ## Contents
 
