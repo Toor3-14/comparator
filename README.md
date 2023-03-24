@@ -11,7 +11,7 @@
 	
 </div>
 
-Comparator is alibrary for easy creating/using custom comparator.
+Comparator is a library for easy creating/using custom comparator.
 This library help you with creating generic functions/methods where you need use your own alphabet.
 It will help the developer save time on developing their projects and make their code more beautiful.
 Also will help the user to adjust your methods more flexibly to their needs.
@@ -133,8 +133,8 @@ c.GetIndex("A") //With the standard alphabet , it will return 0
 ```
 ____
 #### Compare
-Compare compares two variables of type (int, float32, float64, string) and returns the result of the comparison
-Also your arguments must have the same type.
+Compare() compares two variables of type (int/float32/float64/string) and returns the result of the comparison
+Also, your arguments must have the same type.
 
 Comparison scheme:
 ```
