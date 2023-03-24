@@ -35,7 +35,7 @@ ____
 ## Usage
 
 ### Main Example
-```
+```go
 import (
 	"fmt"
 	"github.com/Toor3-14/comparator"
