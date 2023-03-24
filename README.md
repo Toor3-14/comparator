@@ -73,13 +73,16 @@ func BinarySearch[T any](array []T, value T) int {
 }
 func main() {
 	arrStr := []string{"Bin","Cosume","Alex","Dog","Cat"}
-  arrInt := []int{0,4,6,7,3,2,1,9,8,5}
-  BubleSort(arrStr)
-  BubleSort(arrInt)
-  fmt.Println(arrStr)
-  fmt.Println(arrInt)
-  fmt.Println(BinarySearch(arrStr,"Cat"))
-  fmt.Println(BinarySearch(arrInt,9))
+        arrInt := []int{0,4,6,7,3,2,1,9,8,5}
+	
+        BubleSort(arrStr)
+        BubleSort(arrInt)
+	
+        fmt.Println(arrStr)
+        fmt.Println(arrInt)
+	
+        fmt.Println(BinarySearch(arrStr,"Cat"))
+        fmt.Println(BinarySearch(arrInt,9))
 }
 ```
 ____
@@ -140,7 +143,7 @@ For a more familiar comparison , there are the following methods:
 ____
 #### Less
 This compares two variables of type (int,float32,float64,string) and returns true if the first argument is less than the second
-Example
+Example:
 ```
 if c.Less("A", "B") {  // "A" < "B"
     ....
@@ -149,35 +152,39 @@ if c.Less("A", "B") {  // "A" < "B"
 ____
 #### More
 This compares two variables of type (int,float32,float64,string) and returns true if the first argument is greater than the second
-Example
+Example:
 ```
 if c.More("B", "A") {  // "B" > "A"
     ....
 }
+```
 ____
 #### Equal
 This compares two variables of type (int,float32,float64,string) and returns true if the first argument is equal than the second
-Example
+Example:
 ```
 if c.Equal("C", "C") {  // "C" == "C"
     ....
 }
+```
 ____
 #### LessEqual
 This compares two variables of type (int,float32,float64,string) and returns true if the first argument is less or equal than the second
-Example
+Example:
 ```
 if c.LessEqual("C", "C") {  // "C" <= "C"
     ....
 }
+```
 ___
 #### MoreEqual 
 This compares two variables of type (int,float32,float64,string) and returns true if the first argument is greater or equal than the second
-Example
+Example:
 ```
 if c.MoreEqual("B", "A") {  // "B" >= "A"
     ....
 }
+```
 ___
 ## Contributing
 
