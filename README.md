@@ -7,6 +7,9 @@ This library help you with creating generic functions/methods where you need use
 It will help the developer save time on developing their projects and make their code more beautiful.
 Also will help the user to adjust your methods more flexibly to their needs.
 
+
+The main goal of the project - is to standardize work with methods using different data types and needing their own alphabets
+
 ## Contents
 
 0. [Installation](#Installation)
@@ -28,8 +31,8 @@ Also will help the user to adjust your methods more flexibly to their needs.
 
 ## Installation
 
-```
-go get github.com/Toor3-14/comparator
+```cmd
+$ go get github.com/Toor3-14/comparator
 ```
 ____
 ## Usage
