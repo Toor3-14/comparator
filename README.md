@@ -4,17 +4,19 @@
 <h1 align="center">Go Compare 😋</h1>
 
 <div align="center">
+	
 [![Gmail](https://img.shields.io/badge/-dmitrykeof@gmail.com-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:dmitrykeof@gmail.com) 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/redltoor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Comparator is alibrary for easy creating/using custom comparator.
+<p>Comparator is alibrary for easy creating/using custom comparator.
 This library help you with creating generic functions/methods where you need use your own alphabet.
 It will help the developer save time on developing their projects and make their code more beautiful.
-Also will help the user to adjust your methods more flexibly to their needs.
+Also will help the user to adjust your methods more flexibly to their needs.</p>
 
 
-The main goal of the project - is to standardize work with methods using different data types and needing their own alphabets
+<p>The main goal of the project - is to standardize work with methods using different data types and needing their own alphabets</p>
+	
 </div>
 
 ## Contents
