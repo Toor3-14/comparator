@@ -25,7 +25,7 @@ This will help the user to adjust your methods more flexibly to their needs.
         7. [MoreEqual](#MoreEqual)
 2. [Contributing](#Contributing)
 3. [Authors](#Authors)
-4. [Version](#Version)
+4. [Current Version](#Current-Version)
 
 ## Installation
 
