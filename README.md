@@ -3,7 +3,11 @@
 [![Gmail](https://img.shields.io/badge/-dmitrykeof@gmail.com-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:dmitrykeof@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/redltoor)
 
 Comparator is alibrary for easy creating/using custom comparator.
+
+
 This library help you with creating generic functions/methods where you need use your own alphabet.
+
+
 This will help the developer save time on developing their projects and make their code more beautiful.
 
 
