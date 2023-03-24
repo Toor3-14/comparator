@@ -151,7 +151,7 @@ func checkType(elem interface{}) int {
 }
 
 //______________Main method
-// 				Supported types: string, float32, float64, int
+//              Supported types: string, float32, float64, int
 
 
 func (c *comparator) Compare(first, second interface{}) int {
@@ -228,7 +228,7 @@ func (c *comparator) Compare(first, second interface{}) int {
 }
 
 //______________Auxiliary Methods
-//				For the usual check through [<,>, ==, <=, >=] operators
+//              For the usual check through [<,>, ==, <=, >=] operators
 
 func (c *comparator) Less(first, second interface{}) bool {
 	if c.Compare(first, second) == -1 {
