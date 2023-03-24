@@ -5,6 +5,8 @@
 Comparator is alibrary for easy creating/using custom comparator.
 This library help you with creating generic functions/methods where you need use your own alphabet.
 This will help the developer save time on developing their projects and make their code more beautiful.
+
+
 This will help the user to adjust your methods more flexibly to their needs.
 
 ## Contents
