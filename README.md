@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Toor3-14/comparator" rel="noopener" target="_blank"><img width="150" src="logo.png" alt="comparator logo"></a>
+  <a href="https://github.com/Toor3-14/comparator" rel="noopener" target="_blank"><img width="150" src="logo.svg" alt="comparator logo"></a>
 </p>
 <h1 align="center">Go Compare 😋</h1>
 
